@@ -1,11 +1,11 @@
 # PandemicAtlas 🌎
 PandemicAtlas: Tracking COVID-19 Worldwide
 
-## Overview
+## 📖Overview
 
 PandemicAtlas is a web-based application that visualizes COVID-19 case data on a Mapbox map. It provides an interactive way to view the global distribution of COVID-19 cases using color-coded markers to represent different levels of case counts.
 
-## Features
+## 💡Features
 
 - **Interactive Map**: Displays a Mapbox map with global coverage.
 - **COVID-19 Data**: Fetches real-time data from the Disease.sh API.
@@ -15,7 +15,7 @@ PandemicAtlas is a web-based application that visualizes COVID-19 case data on a
   - Red for cases > 3,000,000
 - **Pandemic Scale Legend**: Provides a legend to interpret the color-coded markers.
 
-## Technologies Used
+## 🖥️Technologies Used
 
 - **Mapbox GL JS**: For rendering interactive maps.
 - **Bootstrap**: For styling and layout.
@@ -56,6 +56,15 @@ The project should now be accessible at `http://localhost:5500` or another port 
 ### 5. Update Map Data
 
 The map data is updated dynamically using the `updateMap` function in `index.js`. This function fetches COVID-19 case data from the Disease.sh API and updates the markers on the map accordingly.
+
+## Video🎥
+
+https://github.com/user-attachments/assets/f397b591-b3b2-40c7-904f-05c98882c79b
+
+
+## 📫 Contact
+
+For any inquiries or feedback, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/prabhavsetia/).
 
 ## License
 
